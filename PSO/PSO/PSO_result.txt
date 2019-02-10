@@ -1,0 +1,6 @@
+1549817995: 
+best soulution is: (4.54443e-06, -5.23971e-06)
+objective value: 1.96189e-05
+1549818070: 
+best soulution is: (1.76957e-05, 3.22614e-05)
+objective value: 0.000104111
